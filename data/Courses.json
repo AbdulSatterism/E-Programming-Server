@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Web Development",
+        "img": "https://img.freepik.com/free-photo/technology-circuit-processor-innovation-network-concept_53876-124249.jpg?size=626&ext=jpg&uid=R50196936&ga=GA1.1.592913608.1668666048&semt=robertav1",
+        "details": "HTML. HTML or HyperText Markup Language is the foundation of web development that every developer needs to be familiar with. A popular skill for web developers, it is the 2nd most commonly used language in 2020, according to a survey by Stack Overflow.",
+        "price": "150"
+    },
+    {
+        "id": "2",
+        "name": "Java",
+        "img": "https://img.freepik.com/free-icon/java_318-304885.jpg?size=338&ext=jpg&uid=R50196936&ga=GA1.1.592913608.1668666048&semt=robertav1",
+        "details": "Java is a multi-platform, object-oriented, and network-centric language that can be used as a platform in itself. It is a fast, secure, reliable programming language for coding everything from mobile apps and enterprise software to big data applications and server-side technologies",
+        "price": "125"
+    },
+    {
+        "id": "3",
+        "name": "Python",
+        "img": "https://img.freepik.com/free-icon/python_318-698193.jpg?size=338&ext=jpg&uid=R50196936&ga=GA1.2.592913608.1668666048&semt=robertav1",
+        "details": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems",
+        "price": "200"
+    },
+    {
+        "id": "4",
+        "name": "Machine Learning",
+        "img": "https://img.freepik.com/free-photo/3d-rendering-biorobots-concept_23-2149524399.jpg?size=626&ext=jpg&uid=R50196936&ga=GA1.2.592913608.1668666048&semt=robertav1",
+        "details": "Machine learning (ML) is the study of computer algorithms that learn without being explicitly programmed by humans. It is a subset of artificial intelligence (AI). Although ML algorithms start with basic instructions from their human designers, they learn and make predictions on their own.",
+        "price": "250"
+    },
+    {
+        "id": "5",
+        "name": "C++",
+        "img": "https://img.freepik.com/free-icon/programmer_318-328684.jpg?size=338&ext=jpg&uid=R50196936&ga=GA1.2.592913608.1668666048&semt=robertav1",
+        "details": "C++ is one of the world's most popular programming languages. C++ can be found in today's operating systems, Graphical User Interfaces, and embedded systems. C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs",
+        "price": "175"
+    },
+    {
+        "id": "6",
+        "name": "Android App",
+        "img": "https://img.freepik.com/free-vector/app-store-icon_23-2147521832.jpg?size=626&ext=jpg&uid=R50196936&ga=GA1.1.592913608.1668666048&semt=robertav1",
+        "details": "Android software development is the process by which applications are created for devices running the Android operating system. Google states that 'Android apps can be written using Kotlin, Java, and C++ languages' using the Android software development kit (SDK), while using other languages is also possible",
+        "price": "140"
+    }
+]
