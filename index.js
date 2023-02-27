@@ -3,7 +3,8 @@ const cors = require('cors');
 const app = express();
 const port = process.env.PORT || 5000;
 
-const courses = require('./data/Courses.json')
+const courses = require('./data/Courses.json');
+const questions = require('./data/Question.json')
 
 
 app.use(cors());
@@ -14,6 +15,9 @@ app.get('/', (req, res) => {
 
 app.get('/courses', (req, res) => {
     res.send(courses)
+})
+app.get('/questions', (req, res) => {
+    res.send(questions)
 })
 
 app.get('/course/details/:id', (req, res) => {

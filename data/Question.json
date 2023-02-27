@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "question": "what is `cors`?",
+        "answer": " cors is a function which is used in backend mean server site components it's use in express js . cors is use for client site access api in server site.Cross-origin resource sharing (CORS) is a browser mechanism which enables controlled access to resources located outside of a given domain. "
+    },
+    {
+        "id": "2",
+        "question": " Why are you using `firebase`? What other options do you have to implement authentication?",
+        "answer": "firebase is a open source backend platform where we store our site and it's make a website login and user security best way. firebase is used in web, android, apple etc. it's very popular platform and it's very strong security system. and others option authentication like 'Okta', 'microsoft authentication', 'One Login' etc."
+    },
+    {
+        "id": "3",
+        "question": "How does the private route work?",
+        "answer": "private route means which not allow all people access without authentication . it's check user and user info if user not available this site then private route doesn't access private page or secure things. The react private route component renders child components ( children ) if the user is logged in. If not logged in the user is redirected to the /login page with the return url passed in the location state property"
+    },
+    {
+        "id": "4",
+        "question": "What is Node? How does Node work?",
+        "answer": "Node.js is a cross-platform, open-source server environment that can use javascript for backend website. node work as a backend server.Node. js is a JavaScript runtime environment that achieves low latency and high throughput by taking a “non-blocking” approach to serving requests. In other words, Node. js wastes no time or resources on waiting for I/O requests to return"
+    }
+]
